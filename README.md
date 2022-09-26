@@ -38,3 +38,5 @@ def circulate():
 ![ouput](/n%20variables.png)
 
 ## Result:
+
+Thus circulating the values of N variables using fusion concept is successfully executed.
